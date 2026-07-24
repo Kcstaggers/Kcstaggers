@@ -1,16 +1,23 @@
-## Hi there 👋
+# Keith Staggers
 
-<!--
-**Kcstaggers/Kcstaggers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI creator, trainer, workflow builder, nurse leader, and author.
 
-Here are some ideas to get you started:
+I build practical AI systems and teach leaders how to move from a promising output to a repeatable workflow without hiding the human decision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Start here
+
+- [Keith Staggers Studio](https://www.keithstaggers.com/)
+- [Proof of finished work](https://www.keithstaggers.com/proof/)
+- [The Monday-Morning Test for AI Training](https://www.keithstaggers.com/notes/the-monday-morning-test/)
+- [Practical AI training for teams](https://www.keithstaggers.com/services/training/)
+
+## Selected public work
+
+- **Keith Staggers Studio:** The public home for my independent AI production, training, speaking, and writing.
+- **AI Canvas:** An owner-operated production shadow for managing creative work, documented on the Studio Proof page.
+- **GearSTAT:** A simulated and parked AI workflow build preserved as bounded portfolio evidence.
+- **Books:** *Nurse the F*ck Up*, *Beyond Burnout*, and *Leading with Care*.
+
+My operating standard is simple: build the workflow, test the boundary, keep the judgment.
+
+Everything linked here is public, independent Keith Staggers Studio work.
