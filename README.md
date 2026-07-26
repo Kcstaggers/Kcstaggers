@@ -16,7 +16,7 @@ I build practical AI systems and teach leaders how to move from a promising outp
 - **Keith Staggers Studio:** The public home for my independent AI production, training, speaking, and writing.
 - **AI Canvas:** An owner-operated production shadow for managing creative work, documented on the Studio Proof page.
 - **GearSTAT:** A simulated and parked AI workflow build preserved as bounded portfolio evidence.
-- **Books:** *Nurse the F*ck Up*, *Beyond Burnout*, and *Leading with Care*.
+- **Books:** *Nurse the F*ck Up* and *Leading with Care*.
 
 My operating standard is simple: build the workflow, test the boundary, keep the judgment.
 
