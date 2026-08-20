@@ -7,6 +7,7 @@ Keith Staggers helps leaders and small teams use AI for real work while keeping 
 ## Start here
 
 - [Official site — Keith Staggers Studio](https://www.keithstaggers.com/)
+- [Answers and practical resources](https://www.keithstaggers.com/notes/)
 - [Proof of finished work](https://www.keithstaggers.com/proof/)
 - [Practical AI training for teams](https://www.keithstaggers.com/services/training/)
 - [LinkedIn](https://www.linkedin.com/in/keithstaggers/)
